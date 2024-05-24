@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Katyayni, a part-time front-end freelance Web developer 👨‍💻 working remotely since 2023🚀</div>  
+### <div align="center"> Hi👋 I'm Katyayni, a part-time front-end freelance Web developer 👨‍💻 working remotely since 2023🚀</div>  
   
 
 - 🔭 I’m currently working on Frontend Web Development
