@@ -1,9 +1,16 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/142911107?v=4" align="center" height="400" width="400" />
+<img src="" align="center" height="" width="" />
 </div>  
   
 
-### <div align="center"> Hi👋 I'm Katyayni, a part-time front-end freelance Web developer 👨‍💻 working remotely since 2023🚀</div>  
+# **<div align="center">Hi👋  My name is Katyayni
+                       Frontend Web Developer 
+
+
+I'm currently pursuing my BTech in Civil Engineering at NIT Silchar. With a passion for coding and problem-solving, I've been immersed in the world of web development for the past 2 years. During my journey, I've gained extensive experience in building dynamic and user-friendly web applications, combining my technical skills with creativity to bring ideas to life. I'm constantly learning and exploring new technologies to stay ahead in this ever-evolving field. 
+
+
+[example link text](http://example/com)</div>**  
   
 
 - 🔭 I’m currently working on Frontend Web Development
@@ -13,10 +20,10 @@
 - 🌱 I’m currently learning Backend Development  
   
 
-- ❓ Ask me about anything related to web development  and related technologies  
+- ⚡ Fun fact: I use tabs over spaces  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ❓ Ask me about anything related to web development  and related technologies  
   
 
 <br/>  
